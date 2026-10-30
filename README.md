@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bit-adarsh/Data-Structure-Algorithm-by-Adarsh/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Bit-adarsh/Data-Structure-Algorithm-by-Adarsh/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
