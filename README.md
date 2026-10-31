@@ -43,4 +43,16 @@
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/Bit-adarsh/Data-Structure-Algorithm-by-Adarsh/tree/master/3765-complete-prime-number) |
+## Array
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/Bit-adarsh/Data-Structure-Algorithm-by-Adarsh/tree/master/3665-twisted-mirror-path-count) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/Bit-adarsh/Data-Structure-Algorithm-by-Adarsh/tree/master/3665-twisted-mirror-path-count) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/Bit-adarsh/Data-Structure-Algorithm-by-Adarsh/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
